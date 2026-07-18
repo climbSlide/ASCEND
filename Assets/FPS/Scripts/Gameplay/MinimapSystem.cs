@@ -147,61 +147,97 @@ namespace Unity.FPS.Gameplay
             GameObject hud = GameObject.Find("HUD");
             if (hud == null) return;
 
-            // Destroy existing minimap UI under HUD if any, to avoid duplicates
-            Transform existing = hud.transform.Find("MinimapContainer");
-            if (existing != null)
+            // Find or Create Container
+            Transform containerTransform = hud.transform.Find("MinimapContainer");
+            if (containerTransform != null)
             {
-                if (Application.isPlaying)
-                    Destroy(existing.gameObject);
-                else
-                    DestroyImmediate(existing.gameObject);
+                m_MinimapUI = containerTransform.gameObject;
+            }
+            else
+            {
+                m_MinimapUI = new GameObject("MinimapContainer");
+                m_MinimapUI.transform.SetParent(hud.transform, false);
             }
 
-            // Create Container
-            m_MinimapUI = new GameObject("MinimapContainer");
-            m_MinimapUI.transform.SetParent(hud.transform, false);
-
-            RectTransform containerRect = m_MinimapUI.AddComponent<RectTransform>();
+            RectTransform containerRect = m_MinimapUI.GetComponent<RectTransform>();
+            if (containerRect == null) containerRect = m_MinimapUI.AddComponent<RectTransform>();
+            
             containerRect.anchorMin = new Vector2(1, 1); // Top-Right
             containerRect.anchorMax = new Vector2(1, 1); // Top-Right
             containerRect.pivot = new Vector2(1, 1); // Top-Right
             containerRect.anchoredPosition = UIOffset;
             containerRect.sizeDelta = UISize;
 
-            // Border Background Image
-            GameObject borderGo = new GameObject("Border");
-            borderGo.transform.SetParent(m_MinimapUI.transform, false);
-            RectTransform borderRect = borderGo.AddComponent<RectTransform>();
+            // Find or Create Border Background Image
+            Transform borderTransform = m_MinimapUI.transform.Find("Border");
+            GameObject borderGo;
+            if (borderTransform != null)
+            {
+                borderGo = borderTransform.gameObject;
+            }
+            else
+            {
+                borderGo = new GameObject("Border");
+                borderGo.transform.SetParent(m_MinimapUI.transform, false);
+            }
+
+            RectTransform borderRect = borderGo.GetComponent<RectTransform>();
+            if (borderRect == null) borderRect = borderGo.AddComponent<RectTransform>();
             borderRect.anchorMin = Vector2.zero;
             borderRect.anchorMax = Vector2.one;
             borderRect.sizeDelta = Vector2.zero; // Full stretch
 
-            Image borderImg = borderGo.AddComponent<Image>();
+            Image borderImg = borderGo.GetComponent<Image>();
+            if (borderImg == null) borderImg = borderGo.AddComponent<Image>();
             borderImg.color = new Color(0.15f, 0.15f, 0.15f, BorderAlpha); // Highly transparent frame
 
-            // RawImage for Map Display
-            GameObject mapRawGo = new GameObject("MapDisplay");
-            mapRawGo.transform.SetParent(m_MinimapUI.transform, false);
-            RectTransform mapRect = mapRawGo.AddComponent<RectTransform>();
+            // Find or Create RawImage for Map Display
+            Transform mapRawTransform = m_MinimapUI.transform.Find("MapDisplay");
+            GameObject mapRawGo;
+            if (mapRawTransform != null)
+            {
+                mapRawGo = mapRawTransform.gameObject;
+            }
+            else
+            {
+                mapRawGo = new GameObject("MapDisplay");
+                mapRawGo.transform.SetParent(m_MinimapUI.transform, false);
+            }
+
+            RectTransform mapRect = mapRawGo.GetComponent<RectTransform>();
+            if (mapRect == null) mapRect = mapRawGo.AddComponent<RectTransform>();
             mapRect.anchorMin = Vector2.zero;
             mapRect.anchorMax = Vector2.one;
             mapRect.offsetMin = new Vector2(6, 6); // 6px padding inside border
             mapRect.offsetMax = new Vector2(-6, -6);
 
-            RawImage mapRaw = mapRawGo.AddComponent<RawImage>();
+            RawImage mapRaw = mapRawGo.GetComponent<RawImage>();
+            if (mapRaw == null) mapRaw = mapRawGo.AddComponent<RawImage>();
             mapRaw.texture = MinimapRT;
             mapRaw.color = new Color(1f, 1f, 1f, MapAlpha); // Transparent map display
 
-            // Player Icon (Arrow) in center
-            GameObject playerIconGo = new GameObject("PlayerIcon");
-            playerIconGo.transform.SetParent(m_MinimapUI.transform, false);
-            m_PlayerIconRect = playerIconGo.AddComponent<RectTransform>();
+            // Find or Create Player Icon (Arrow) in center
+            Transform playerIconTransform = m_MinimapUI.transform.Find("PlayerIcon");
+            GameObject playerIconGo;
+            if (playerIconTransform != null)
+            {
+                playerIconGo = playerIconTransform.gameObject;
+            }
+            else
+            {
+                playerIconGo = new GameObject("PlayerIcon");
+                playerIconGo.transform.SetParent(m_MinimapUI.transform, false);
+            }
+
+            m_PlayerIconRect = playerIconGo.GetComponent<RectTransform>();
+            if (m_PlayerIconRect == null) m_PlayerIconRect = playerIconGo.AddComponent<RectTransform>();
             m_PlayerIconRect.anchorMin = new Vector2(0.5f, 0.5f);
             m_PlayerIconRect.anchorMax = new Vector2(0.5f, 0.5f);
             m_PlayerIconRect.pivot = new Vector2(0.5f, 0.5f);
             m_PlayerIconRect.sizeDelta = new Vector2(24, 24);
 
-            Image playerIconImg = playerIconGo.AddComponent<Image>();
+            Image playerIconImg = playerIconGo.GetComponent<Image>();
+            if (playerIconImg == null) playerIconImg = playerIconGo.AddComponent<Image>();
             playerIconImg.sprite = PlayerArrowSprite;
         }
 
