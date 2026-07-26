@@ -1,0 +1,31 @@
+{
+    "asset": "a07e9a1b4d35a43d38b691e495913d27",
+    "fileName": "019f9cff-332e-70b9-a8d5-92661a0e3dcc.png",
+    "prompt": "Panoramic human-eye level view of a Hawaiian volcanic island, sharp volcanic rocks in the foreground, distant massive volcanoes like Haleakala Maui, vast deep blue ocean surroundings, clear bright sunny sky, realistic scale and perspective, 8k resolution, photorealistic, tropical atmosphere",
+    "negativePrompt": "",
+    "model": "skybox-cinematic",
+    "modelName": "Cinematic",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

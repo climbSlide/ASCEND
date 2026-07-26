@@ -1,0 +1,12 @@
+{
+    "asset": "690e24fa50591401386978faca7698a7",
+    "fileName": "019f9d92-b517-7050-b13c-c6cb1f870058.fbx",
+    "prompt": "slow shuffling zombie walk, dragging feet, hunched over",
+    "negativePrompt": "",
+    "model": "uthana-text-to-motion-3",
+    "modelName": "Uthana Text to Motion 3.0",
+    "customSeed": 480290727,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "isTrimmed": false
+}

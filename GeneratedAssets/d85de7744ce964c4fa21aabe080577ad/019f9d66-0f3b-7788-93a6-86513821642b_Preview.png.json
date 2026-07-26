@@ -1,0 +1,12 @@
+{
+    "asset": "d85de7744ce964c4fa21aabe080577ad",
+    "fileName": "019f9d66-0f3b-7788-93a6-86513821642b_Preview.png",
+    "prompt": "glowing bright orange and yellow lava flow, bubbling liquid surface, seamless 4k pbr texture, emissive volcanic lava",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 1535679805,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

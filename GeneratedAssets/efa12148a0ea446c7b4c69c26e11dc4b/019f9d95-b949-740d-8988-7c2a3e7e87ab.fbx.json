@@ -1,0 +1,12 @@
+{
+    "asset": "efa12148a0ea446c7b4c69c26e11dc4b",
+    "fileName": "019f9d95-b949-740d-8988-7c2a3e7e87ab.fbx",
+    "prompt": "zombie melee attack, slow windup, quick downward swipe with both hands",
+    "negativePrompt": "",
+    "model": "uthana-text-to-motion-3",
+    "modelName": "Uthana Text to Motion 3.0",
+    "customSeed": 1791593594,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "isTrimmed": false
+}

@@ -1,0 +1,23 @@
+{
+    "asset": "b7df814b5fdde4750817a0a55fdebcee",
+    "fileName": "019f9d0f-0b47-70f1-96af-b3dcd9711bac.fbx",
+    "prompt": "A large smooth black lava boulder.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "31b7fa09cac854c7dbe9768836d4895f",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

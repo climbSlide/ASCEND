@@ -1,0 +1,23 @@
+{
+    "asset": "cb9e7b02600034ac3a3f27052cf36282",
+    "fileName": "019f9d3c-09b8-7508-aedf-e97593dc355a.glb",
+    "prompt": "",
+    "negativePrompt": "",
+    "model": "model3d-tripo3-texturing",
+    "modelName": "Tripo 3.0 Texturing",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Texturing",
+    "promptImageReferenceGuid": "bca32207ad8254b80a5e84b82fbf2f9c",
+    "modelReferenceGuid": "cb9e7b02600034ac3a3f27052cf36282",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

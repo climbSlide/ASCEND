@@ -1,0 +1,12 @@
+{
+    "asset": "aa9bea141a543450494281b365c3a3ba",
+    "fileName": "019f9d63-98bd-714d-8c00-2f1b86f66b25_Preview.png",
+    "prompt": "bright glowing orange liquid lava with black obsidian rock crust, seamless 4k pbr texture, emissive orange glow",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 1942040996,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

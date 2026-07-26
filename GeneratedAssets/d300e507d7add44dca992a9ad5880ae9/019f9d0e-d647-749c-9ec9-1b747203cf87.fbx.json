@@ -1,0 +1,23 @@
+{
+    "asset": "d300e507d7add44dca992a9ad5880ae9",
+    "fileName": "019f9d0e-d647-749c-9ec9-1b747203cf87.fbx",
+    "prompt": "A lush tropical broad-leaf palm tree.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "5f9000f22dd2a4b98a9726862f5edd5a",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

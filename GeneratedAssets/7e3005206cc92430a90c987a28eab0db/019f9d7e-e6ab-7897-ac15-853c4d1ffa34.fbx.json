@@ -1,0 +1,23 @@
+{
+    "asset": "7e3005206cc92430a90c987a28eab0db",
+    "fileName": "019f9d7e-e6ab-7897-ac15-853c4d1ffa34.fbx",
+    "prompt": "A regal high-fantasy sword, gold hilt, silver blade with cyan glow, low poly stylized.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "41285b052a86f4ddeb433f77df305ac9",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

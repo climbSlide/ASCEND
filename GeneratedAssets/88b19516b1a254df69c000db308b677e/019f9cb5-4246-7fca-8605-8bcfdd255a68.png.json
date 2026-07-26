@@ -1,0 +1,31 @@
+{
+    "asset": "88b19516b1a254df69c000db308b677e",
+    "fileName": "019f9cb5-4246-7fca-8605-8bcfdd255a68.png",
+    "prompt": "A bright sunny day in a lush green forest, realistic lighting, clear blue sky visible through canopy, high quality, 4k",
+    "negativePrompt": "",
+    "model": "skybox-standard",
+    "modelName": "Standard",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

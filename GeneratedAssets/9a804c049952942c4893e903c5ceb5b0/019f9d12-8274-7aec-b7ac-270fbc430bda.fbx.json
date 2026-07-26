@@ -1,0 +1,23 @@
+{
+    "asset": "9a804c049952942c4893e903c5ceb5b0",
+    "fileName": "019f9d12-8274-7aec-b7ac-270fbc430bda.fbx",
+    "prompt": "A large cluster of jagged volcanic lava rocks.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "2fa4f52707c3247338ff8a3ae92716e6",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

@@ -1,0 +1,23 @@
+{
+    "asset": "b4b83de55eb134b40819574a850ec441",
+    "fileName": "019f9d97-ce0e-7b52-b738-92e2cdf93e3e.fbx",
+    "prompt": "simple low poly pixelated zombie humanoid character, green skin, torn clothes, t-pose, matching the reference image style",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "33d5f22e8f35540f7b582e87a8af8874",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

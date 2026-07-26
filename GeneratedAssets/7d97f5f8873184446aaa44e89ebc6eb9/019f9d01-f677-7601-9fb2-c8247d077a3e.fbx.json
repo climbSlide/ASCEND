@@ -1,0 +1,23 @@
+{
+    "asset": "7d97f5f8873184446aaa44e89ebc6eb9",
+    "fileName": "019f9d01-f677-7601-9fb2-c8247d077a3e.fbx",
+    "prompt": "A sharp jagged black volcanic rock, Hawaiian lava rock style, matching the reference image.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "6490930182f6749b19da698fb7fb4934",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

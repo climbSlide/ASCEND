@@ -1,0 +1,31 @@
+{
+    "asset": "8efdf8bc8e3a2439fa5bf7b8f92addbd",
+    "fileName": "019f9da2-da9f-7fa6-bd5c-510b9e53643d.png",
+    "prompt": "Full body low poly stylized pixelated zombie character, head to toe in frame, strict front-facing neutral T-pose, both arms perfectly straight and horizontal at shoulder height forming a 90-degree angle from the torso, hands elbows shoulders legs and feet visible, green skin, tattered grey clothes, simple isolated light background, visible pixel art texture, game character concept",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

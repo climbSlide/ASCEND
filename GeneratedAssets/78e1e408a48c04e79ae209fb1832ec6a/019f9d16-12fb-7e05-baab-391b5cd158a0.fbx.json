@@ -1,0 +1,23 @@
+{
+    "asset": "78e1e408a48c04e79ae209fb1832ec6a",
+    "fileName": "019f9d16-12fb-7e05-baab-391b5cd158a0.fbx",
+    "prompt": "A stylized Hawaiian Hala tree (Pandanus) with stilt roots.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "bca32207ad8254b80a5e84b82fbf2f9c",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

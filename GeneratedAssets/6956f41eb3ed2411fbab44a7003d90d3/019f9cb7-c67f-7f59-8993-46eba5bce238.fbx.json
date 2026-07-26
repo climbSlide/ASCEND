@@ -1,0 +1,23 @@
+{
+    "asset": "6956f41eb3ed2411fbab44a7003d90d3",
+    "fileName": "019f9cb7-c67f-7f59-8993-46eba5bce238.fbx",
+    "prompt": "A stylized low-poly oak tree with lush green leaves.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "6f771c6b026494ca380373d99093862f",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

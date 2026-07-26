@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using Unity.FPS.Game;
 using UnityEngine;
 using UnityEngine.AI;
@@ -309,7 +309,7 @@ namespace Unity.FPS.AI
 
         public void SetNavDestination(Vector3 destination)
         {
-            if (NavMeshAgent)
+            if (NavMeshAgent && NavMeshAgent.isOnNavMesh)
             {
                 NavMeshAgent.SetDestination(destination);
             }

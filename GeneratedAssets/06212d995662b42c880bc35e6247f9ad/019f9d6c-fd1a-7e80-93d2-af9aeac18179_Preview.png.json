@@ -1,0 +1,12 @@
+{
+    "asset": "06212d995662b42c880bc35e6247f9ad",
+    "fileName": "019f9d6c-fd1a-7e80-93d2-af9aeac18179_Preview.png",
+    "prompt": "lush dense green jungle moss and tropical grass, seamless 4k pbr texture, vibrant and detailed, high quality forest floor",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 1890679607,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

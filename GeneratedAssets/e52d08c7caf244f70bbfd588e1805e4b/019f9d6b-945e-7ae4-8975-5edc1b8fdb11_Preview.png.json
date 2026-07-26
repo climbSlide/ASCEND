@@ -1,0 +1,12 @@
+{
+    "asset": "e52d08c7caf244f70bbfd588e1805e4b",
+    "fileName": "019f9d6b-945e-7ae4-8975-5edc1b8fdb11_Preview.png",
+    "prompt": "dark volcanic brown rock and dry earth, seamless 4k pbr texture, jagged stone detail, volcanic ash brown",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 704501045,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

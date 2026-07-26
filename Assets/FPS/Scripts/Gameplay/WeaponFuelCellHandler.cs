@@ -1,4 +1,4 @@
-﻿using Unity.FPS.Game;
+using Unity.FPS.Game;
 using UnityEngine;
 
 namespace Unity.FPS.Gameplay
@@ -40,6 +40,8 @@ namespace Unity.FPS.Gameplay
             {
                 for (int i = 0; i < FuelCells.Length; i++)
                 {
+                    if (FuelCells[i] == null) continue;
+
                     FuelCells[i].transform.localPosition = Vector3.Lerp(FuelCellUsedPosition, FuelCellUnusedPosition,
                         m_Weapon.CurrentAmmoRatio);
                 }
@@ -49,6 +51,8 @@ namespace Unity.FPS.Gameplay
                 // TODO: needs simplification
                 for (int i = 0; i < FuelCells.Length; i++)
                 {
+                    if (FuelCells[i] == null) continue;
+
                     float length = FuelCells.Length;
                     float lim1 = i / length;
                     float lim2 = (i + 1) / length;

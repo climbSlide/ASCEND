@@ -1,0 +1,12 @@
+{
+    "asset": "f852a8d09f55e4e869326390a6c1ecd9",
+    "fileName": "019f9d69-6a07-7b9b-9afd-b4aa255900b7_Preview.png",
+    "prompt": "vibrant lush green moss and grass volcanic soil, seamless 4k pbr texture, high detail, realistic foliage",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 223554719,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

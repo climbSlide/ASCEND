@@ -1,0 +1,15 @@
+{
+    "asset": "8d95d69897d614938bd1ff103e17d91c",
+    "fileName": "019f9d7b-576d-7075-98f8-d8f34687c5f0.wav",
+    "prompt": "Sharp metal impact of a sword hitting armor or a hard surface.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

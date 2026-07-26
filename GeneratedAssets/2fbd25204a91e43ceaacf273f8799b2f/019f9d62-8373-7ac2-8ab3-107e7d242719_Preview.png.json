@@ -1,0 +1,12 @@
+{
+    "asset": "2fbd25204a91e43ceaacf273f8799b2f",
+    "fileName": "019f9d62-8373-7ac2-8ab3-107e7d242719_Preview.png",
+    "prompt": "lush vibrant green volcanic grass with moss and small ferns, seamless high quality pbr material, stylized but detailed",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 628613461,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

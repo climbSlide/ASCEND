@@ -1,0 +1,31 @@
+{
+    "asset": "12a8fb097604749dbae141e5ff5f6713",
+    "fileName": "019f9d21-3581-7934-915e-4db778e269ba.png",
+    "prompt": "A clear, bright blue sky on a sunny day with a few soft white clouds, high noon, clean and open, no trees or rocks, high quality 4k",
+    "negativePrompt": "",
+    "model": "skybox-standard",
+    "modelName": "Standard",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

@@ -1,4 +1,4 @@
-﻿using Unity.FPS.Game;
+using Unity.FPS.Game;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -108,6 +108,8 @@ namespace Unity.FPS.Gameplay
 
                 for (int i = 0; i < JetpackVfx.Length; i++)
                 {
+                    if (JetpackVfx[i] == null) continue;
+
                     var emissionModulesVfx = JetpackVfx[i].emission;
                     emissionModulesVfx.enabled = true;
                 }
@@ -128,6 +130,8 @@ namespace Unity.FPS.Gameplay
 
                 for (int i = 0; i < JetpackVfx.Length; i++)
                 {
+                    if (JetpackVfx[i] == null) continue;
+
                     var emissionModulesVfx = JetpackVfx[i].emission;
                     emissionModulesVfx.enabled = false;
                 }

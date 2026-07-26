@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8079120774353966871
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3659995153115176982, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659995153115176982, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659995153115176982, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659995153115176982, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659995153115176982, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659995153115176982, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659995153115176982, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659995153115176982, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659995153115176982, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659995153115176982, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659995153115176983, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: m_Name
+      value: Projectile_MeleeCleave
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924682559891268397, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: Tip
+      value: 
+      objectReference: {fileID: 4815517578326456065}
+    - target: {fileID: 8924682559891268397, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: Speed
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924682559891268397, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: Damage
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924682559891268397, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: Radius
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924682559891268397, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: MaxLifeTime
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 8924682559891268397, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: ImpactSfxClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 8d95d69897d614938bd1ff103e17d91c, type: 3}
+    - target: {fileID: 8924682559891268397, guid: 3c6b27d949cdda749892906e1f1d1b27,
+        type: 3}
+      propertyPath: InheritWeaponVelocity
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8402172112654882828, guid: 3c6b27d949cdda749892906e1f1d1b27, type: 3}
+    m_RemovedGameObjects:
+    - {fileID: 8402172112652879564, guid: 3c6b27d949cdda749892906e1f1d1b27, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3c6b27d949cdda749892906e1f1d1b27, type: 3}
+--- !u!4 &4815517578326456065 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3659995153115176982, guid: 3c6b27d949cdda749892906e1f1d1b27,
+    type: 3}
+  m_PrefabInstance: {fileID: 8079120774353966871}
+  m_PrefabAsset: {fileID: 0}

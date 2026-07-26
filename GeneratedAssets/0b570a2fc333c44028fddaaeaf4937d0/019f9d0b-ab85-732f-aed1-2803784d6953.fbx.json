@@ -1,0 +1,23 @@
+{
+    "asset": "0b570a2fc333c44028fddaaeaf4937d0",
+    "fileName": "019f9d0b-ab85-732f-aed1-2803784d6953.fbx",
+    "prompt": "A jagged black volcanic rock, matching the reference image.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "fd7972da5f11a4d258d3601b0dbc0533",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

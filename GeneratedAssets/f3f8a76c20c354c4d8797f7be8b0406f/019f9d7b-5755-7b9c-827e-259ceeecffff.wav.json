@@ -1,0 +1,15 @@
+{
+    "asset": "f3f8a76c20c354c4d8797f7be8b0406f",
+    "fileName": "019f9d7b-5755-7b9c-827e-259ceeecffff.wav",
+    "prompt": "Whoosh of a heavy sword swinging through the air, sharp and powerful.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

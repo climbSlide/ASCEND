@@ -1,0 +1,23 @@
+{
+    "asset": "6aa0b7bbc3a314531bdeb1b205fc07bb",
+    "fileName": "019f9d0b-981f-79f4-a4e2-ba05077f10fe.fbx",
+    "prompt": "A stylized Hawaiian palm tree, matching the reference image.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "044c5ed4d50ac4181a56d88190d614e4",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

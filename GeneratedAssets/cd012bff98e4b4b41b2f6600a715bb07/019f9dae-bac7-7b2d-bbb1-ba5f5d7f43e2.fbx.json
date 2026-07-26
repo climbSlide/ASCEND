@@ -1,0 +1,23 @@
+{
+    "asset": "cd012bff98e4b4b41b2f6600a715bb07",
+    "fileName": "019f9dae-bac7-7b2d-bbb1-ba5f5d7f43e2.fbx",
+    "prompt": "low poly stylized pixelated zombie character, T-pose, matching the style of the reference image",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "8efdf8bc8e3a2439fa5bf7b8f92addbd",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

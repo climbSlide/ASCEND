@@ -1,0 +1,15 @@
+{
+    "asset": "f98788082c95b4b0d8f962ec78a9969a",
+    "fileName": "019f9d8f-fb6f-76d3-ac15-6eb2fc507b73.wav",
+    "prompt": "zombie groan, low pitch, raspy, scary",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 2.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

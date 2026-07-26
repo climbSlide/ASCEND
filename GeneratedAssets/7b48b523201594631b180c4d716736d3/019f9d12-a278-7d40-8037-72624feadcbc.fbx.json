@@ -1,0 +1,23 @@
+{
+    "asset": "7b48b523201594631b180c4d716736d3",
+    "fileName": "019f9d12-a278-7d40-8037-72624feadcbc.fbx",
+    "prompt": "A stylized Hawaiian Koa tree with a broad canopy.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "c422cc270ca0f42188722032a94cc162",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

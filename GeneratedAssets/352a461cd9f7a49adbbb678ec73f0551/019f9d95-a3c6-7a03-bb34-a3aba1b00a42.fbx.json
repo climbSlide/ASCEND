@@ -1,0 +1,12 @@
+{
+    "asset": "352a461cd9f7a49adbbb678ec73f0551",
+    "fileName": "019f9d95-a3c6-7a03-bb34-a3aba1b00a42.fbx",
+    "prompt": "zombie idle, swaying slightly, occasional head twitch",
+    "negativePrompt": "",
+    "model": "uthana-text-to-motion-3",
+    "modelName": "Uthana Text to Motion 3.0",
+    "customSeed": 1526818815,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "isTrimmed": false
+}

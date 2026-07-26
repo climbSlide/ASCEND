@@ -1,0 +1,23 @@
+{
+    "asset": "7a11bbae9382a4a1fbe3111e2dd694d1",
+    "fileName": "019f9d0f-162a-7ab7-8ef2-f5e6552ee234.fbx",
+    "prompt": "A tropical Ti plant shrub.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "2ce9bd971a56a4f3eb0b9e4e73ddc64a",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}
