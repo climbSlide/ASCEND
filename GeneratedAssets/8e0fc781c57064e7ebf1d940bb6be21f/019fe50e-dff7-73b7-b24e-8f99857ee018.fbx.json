@@ -1,0 +1,23 @@
+{
+    "asset": "8e0fc781c57064e7ebf1d940bb6be21f",
+    "fileName": "019fe50e-dff7-73b7-b24e-8f99857ee018.fbx",
+    "prompt": "A 3D cyber dragon, mechanical, high-tech, sleek armor plating, glowing neon blue circuits, dark metallic surface",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "85d3d2d5edd984938a923b21cde1d5b6",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

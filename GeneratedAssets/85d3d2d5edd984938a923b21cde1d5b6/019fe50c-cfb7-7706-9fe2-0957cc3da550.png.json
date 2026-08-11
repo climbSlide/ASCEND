@@ -1,0 +1,31 @@
+{
+    "asset": "85d3d2d5edd984938a923b21cde1d5b6",
+    "fileName": "019fe50c-cfb7-7706-9fe2-0957cc3da550.png",
+    "prompt": "A 3D cyber dragon, mechanical, high-tech, sleek armor plating, glowing neon blue circuits, dark metallic surface, full body, side view, white background, game asset style",
+    "negativePrompt": "",
+    "model": "gpt-image-1",
+    "modelName": "GPT Image 1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}
